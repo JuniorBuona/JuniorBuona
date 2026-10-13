@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá, eu sou o Marcelo Buonadio 👋
 
-<!--
-**JuniorBuona/JuniorBuona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Júnior | C# | Python | Lua**
+> Estudante de ADS na Anhanguera • Buscando minha 1ª vaga como Dev Júnior / Estágio
 
-Here are some ideas to get you started:
+📍 São Carlos - SP, Brazil | 🌐 Remoto/Híbrido | 🔍 #OpenToWork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+Em transição de carreira para tecnologia, focado em construir base sólida em lógica, POO e desenvolvimento backend. Curioso, dedicado e em constante aprendizado.
+
+### 🛠️ Stack
+- **Linguagens:** C#, Python, Lua
+- **Ferramentas:** Git, GitHub, Visual Studio, VS Code, SQL Server
+- **Conceitos:** Programação Orientada a Objetos, CRUD, Lógica de Programação
+
+### 📌 O que você vai encontrar aqui
+Projetos de estudo, exercícios da faculdade e implementações práticas documentadas com passo a passo para rodar.
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-buonadio-895572443/)
+
+> 💡 "Código limpo e curiosidade são meu padrão."
